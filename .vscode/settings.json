@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        ".serverless": true,
+        "lib": true
+    }
+}
